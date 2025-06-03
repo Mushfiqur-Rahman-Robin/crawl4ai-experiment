@@ -1,0 +1,13 @@
+[project]
+name = "craw4ai-experiment"
+version = "0.1.0"
+description = "Experiment with crawl4ai on multiple websites"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "crawl4ai>=0.6.3",
+    "nest-asyncio>=1.6.0",
+    "notebook>=7.4.3",
+    "playwright>=1.52.0",
+    "ruff>=0.11.12",
+]
