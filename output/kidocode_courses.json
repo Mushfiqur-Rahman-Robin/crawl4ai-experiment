@@ -1,0 +1,44 @@
+[
+  {
+    "section_title": "Coding",
+    "section_description": "Introducing students to the world of programming through Python, emphasizing foundational coding concepts and creativity in solving problems through generative art and geometric patterns.",
+    "course_name": "Coding with Python",
+    "course_description": "Explore the exciting intersection of art and technology in Creative Coding with Python. This engaging course introduces young learners to Python programming, teaching them foundational coding concepts through the creation of generative art and geometric patterns. As students progress from basic programming principles to artistic project development, they'll enhance their problem-solving and logical thinking abilities, all within a creative and fun learning environment.",
+    "course_icon": "https://cdn.prod.website-files.com/61d6943d6b59241863c825d6/65c0a4d516aec7d103edb1e5_Python-Data-Science-Toolkit-Icon.svg"
+  },
+  {
+    "section_title": "Robotics",
+    "section_description": "Diving into the mechanics and electronics behind robotics, this course empowers students with hands-on experience in building and programming robots, mirroring the understanding of computer 'anatomy'.",
+    "course_name": "Electronics & Robotics",
+    "course_description": "Electronics and Robotics is a foundational course designed to immerse you in the fundamentals of electronics and robotics. Start with an introduction to key concepts and progress to understanding the roles of essential components such as resistors, capacitors, transistors, and sensors. Gain hands-on experience by building and programming circuits and simple robots. Throughout the course, you'll enhance your problem-solving abilities and foster innovative thinking, essential skills for aspiring engineers and hobbyists alike.",
+    "course_icon": "https://cdn.prod.website-files.com/61d6943d6b59241863c825d6/65c0a86a85bc58f2190b04f8_Programming-for-Robotics-Icon.svg"
+  },
+  {
+    "section_title": "Electronics",
+    "section_description": "Focused on the fundamental principles of electronics, this module is designed to provide students with a deep understanding of the components that power today's technology, akin to learning the human body's functions.",
+    "course_name": "Beginner Electronics Programming",
+    "course_description": "Learn basic concepts of electronics and circuits, basics of programming and everyday electronics. Explore what programmable electronics have applications in our built environment, starting with the fundamental programming concepts before digging deeper into the more advanced C++ topics. You will build everything from a Harry Potter Sorting Hat to a program that can censor text!",
+    "course_icon": "https://cdn.prod.website-files.com/61d6943d6b59241863c825d6/621714fb0e890af847bde8c6_Beginner-Electronics-Programming.svg"
+  },
+  {
+    "section_title": "Apps",
+    "section_description": "Bridging the gap between web and mobile app development, this course offers students the skills to create high-performance, accessible apps, emphasizing the importance of responsive design and deployment strategies.",
+    "course_name": "Beginner Mobile App Development",
+    "course_description": "Some of our favorite apps are the simplest ones \u2014 and you do not need any coding experience to start making your own. Throughout this course, you will build a basic Android app from start to finish. Get ready to see your work on a small screen.",
+    "course_icon": "https://cdn.prod.website-files.com/61d6943d6b59241863c825d6/6256f43dd2c2c663bf3e2d15_Beginner-Mobile-App-Development.svg"
+  },
+  {
+    "section_title": "Techniques",
+    "section_description": "Venturing into the realm of 3D design and printing, students learn to bring their digital ideas into the physical world, fostering innovation and creativity in translating concepts into tangible creations.",
+    "course_name": "3D Modelling & Printing",
+    "course_description": "Delve into the essentials of 3D design, geometry, and mathematics, and explore the diverse materials and technologies that make 3D printing possible. With practical sessions in 3D design software and hands-on printer use, you'll develop the skills needed to design, model, and bring your 3D creations to life. This course is perfect for anyone interested in transforming ideas into physical forms through the art and science of 3D printing.",
+    "course_icon": "https://cdn.prod.website-files.com/61d6943d6b59241863c825d6/65c0a93562ed5413a3c23d29_Learn-3D-Modelling-_-Printing.svg"
+  },
+  {
+    "section_title": "Engagement",
+    "section_description": "This final component combines the comprehensive skills required for web development with the creative and immersive world of game development, encouraging students to apply their skills in creating engaging digital experiences.",
+    "course_name": "Game Development",
+    "course_description": "Discover the power of web-based game development using PhaserJS, and delve into the imaginative universe of Roblox to create engaging games. This course also introduces you to gamification strategies, pixel art, and sound design, enriching your developer toolkit. By fostering critical thinking and creativity, it prepares you to innovate and excel in the game development field.",
+    "course_icon": "https://cdn.prod.website-files.com/61d6943d6b59241863c825d6/65c0a967c53d4dffd654d60c_Beginner-Game-Development-Icon.svg"
+  }
+]
